@@ -1,0 +1,16 @@
+Fire defense slugs
+
+Player is a plane/robot, can transform to switch between two modes
+Plane controls, sort of flying third person controls
+Each mode has different movement/weaponry
+Spray water, carpet bomb with water, ice missiles
+Message box to show info, robot AI talking via text to speech?
+Game goes on until city dies, gets harder over time
+
+City with forests around it
+Fire spreads from edges of world toward city
+Some kind of fire propagation, maybe cell automata?
+After time fire slug things start attacking city
+Larger slugs over time?
+Maybe can split apart into smaller components
+Projectile weapons, attack player not city
